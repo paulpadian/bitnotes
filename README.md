@@ -1,4 +1,4 @@
-## Bittorent Fileshare Notes for P2P
+## Bittorent Fileshare Notes for P2P - Initial Structure and Syntax
 
 Pieces and Blocks:
 - torrent divided into multiple pieces, pieces -> blocks
